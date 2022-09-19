@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="toggle_turn_on">ON</string>
+    <string name="toggle_turn_off">OFF</string>
+    <string name="edit_text">Type something</string>
+    <string name="spinner">Choose an option</string>
+    <string name="button">Show</string>
+    <string name="radio_button1">1</string>
+    <string name="radio_button2">2</string>
+    <string name="radio_button3">3</string>
+    <string name="teste1">Teste</string>
+    <string name="teste2">Teste2</string>
+    <string name="textView">Long Press Me</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="show_gridview">Show GridView</string>
+    <string name="song">Song</string>
+    <string-array name="list_view">
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Watermelon</item>
+    </string-array>
+</resources>
